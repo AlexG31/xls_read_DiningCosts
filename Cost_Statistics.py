@@ -72,4 +72,3 @@ for i in range(1,table.nrows):
 		print 'Cost in',date_num,'is :',Cost
 
 print '-------End of Program--------'
-tmp=raw_input('waiting to exit....')
