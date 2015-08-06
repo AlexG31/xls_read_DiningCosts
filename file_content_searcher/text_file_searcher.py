@@ -2,7 +2,7 @@
 import os
 print "===Start of Program==="
 file_path=u'D:\\交大10级图片\\10\\'
-Search_Content=u'高鹏飞';
+Search_Content=u'高';
 #list of extentions
 proc_list=['txt','html','htm','c','cpp','h','hpp','java']
 #get list of files in the dir:
